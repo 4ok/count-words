@@ -1,0 +1,5 @@
+.DS_Store
+.history
+
+example/tmp
+example/result.csv
